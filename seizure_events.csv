@@ -1,17 +1,30 @@
 timestamp,patient_id,centre,mode,patient_note,followed_up,false_positive
-2026-03-30T12:17:48Z,P04,Cleveland Clinic,Exercise,Was stressed prior to event,Pending,Yes
-2026-03-30T12:18:38Z,P10,UCSF Medical Center,Exercise,Was stressed prior to event,Yes,No
-2026-03-30T12:29:48Z,P18,Boston Medical Center,Exercise,Mild headache after,Pending,Yes
-2026-03-30T12:36:18Z,P17,Boston Medical Center,Exercise,N/A,Pending,No
-2026-03-30T12:48:08Z,P05,Boston Medical Center,Rest,No recollection of event,Pending,No
-2026-03-30T12:58:18Z,P13,Mayo Clinic Rochester,Sleep,No recollection of event,Yes,No
-2026-03-30T13:05:28Z,P18,Boston Medical Center,Awake,N/A,No,No
-2026-03-30T13:06:28Z,P08,Johns Hopkins Hospital,Unknown,No warning signs,No,Yes
-2026-03-30T13:11:28Z,P19,Cleveland Clinic,Exercise,Felt confused afterwards,Pending,No
-2026-03-30T13:14:18Z,P17,Boston Medical Center,Sleep,Experienced aura beforehand,Yes,No
-2026-03-30T13:15:08Z,P15,Johns Hopkins Hospital,Unknown,N/A,Yes,No
-2026-03-30T13:18:29Z,P18,Boston Medical Center,Rest,Felt confused afterwards,Yes,No
-2026-03-30T13:24:28Z,P09,Cleveland Clinic,Awake,Mild headache after,Yes,No
-2026-03-30T13:26:24Z,P07,Johns Hopkins Hospital,Awake,Was stressed prior to event,No,No
-2026-03-30T13:31:37Z,P13,Mayo Clinic Rochester,Unknown,N/A,Yes,Yes
-2026-03-30T13:31:50Z,P08,Johns Hopkins Hospital,Unknown,No warning signs,Pending,Yes
+2026-03-30T11:29:42Z,P04,Cleveland Clinic,Rest,Felt confused afterwards,No,No
+2026-03-30T11:30:32Z,P10,UCSF Medical Center,Exercise,N/A,Yes,Yes
+2026-03-30T11:41:42Z,P18,Cleveland Clinic,Sleep,No warning signs,Pending,No
+2026-03-30T11:48:12Z,P17,Mayo Clinic Rochester,Unknown,N/A,Yes,Yes
+2026-03-30T12:00:02Z,P05,Cleveland Clinic,Exercise,No recollection of event,Pending,Yes
+2026-03-30T12:10:12Z,P13,UCSF Medical Center,Sleep,N/A,Yes,No
+2026-03-30T12:17:22Z,P18,Cleveland Clinic,Unknown,No recollection of event,Yes,No
+2026-03-30T12:18:22Z,P08,Cleveland Clinic,Unknown,Was stressed prior to event,Pending,No
+2026-03-30T12:23:22Z,P19,Cleveland Clinic,Exercise,No recollection of event,No,No
+2026-03-30T12:26:12Z,P17,Mayo Clinic Rochester,Unknown,Felt dizzy before onset,Pending,No
+2026-03-30T12:27:02Z,P15,UCSF Medical Center,Exercise,Woke up during episode,Yes,No
+2026-03-30T12:30:13Z,P18,Cleveland Clinic,Exercise,Felt dizzy before onset,Pending,No
+2026-03-30T12:35:56Z,P09,UCSF Medical Center,Awake,Was stressed prior to event,Yes,No
+2026-03-30T12:37:47Z,P07,Cleveland Clinic,Exercise,No recollection of event,No,No
+2026-03-30T12:42:41Z,P13,UCSF Medical Center,Rest,Felt dizzy before onset,Yes,No
+2026-03-30T12:42:51Z,P08,Cleveland Clinic,Sleep,N/A,Yes,No
+2026-03-30T12:54:57Z,P11,Johns Hopkins Hospital,Awake,N/A,Pending,Yes
+2026-03-30T12:57:28Z,P04,Cleveland Clinic,Exercise,Was stressed prior to event,Pending,No
+2026-03-30T12:58:08Z,P06,UCSF Medical Center,Awake,N/A,Pending,No
+2026-03-30T12:58:08Z,P10,UCSF Medical Center,Exercise,No recollection of event,Yes,No
+2026-03-30T13:03:41Z,P14,Boston Medical Center,Awake,Woke up during episode,Yes,No
+2026-03-30T13:12:43Z,P06,UCSF Medical Center,Rest,N/A,No,No
+2026-03-30T13:12:43Z,P07,Cleveland Clinic,Awake,Mild headache after,No,Yes
+2026-03-30T13:26:16Z,P20,Boston Medical Center,Sleep,Was stressed prior to event,Pending,No
+2026-03-30T13:27:27Z,P02,Johns Hopkins Hospital,Exercise,N/A,Pending,No
+2026-03-30T13:30:07Z,P04,Cleveland Clinic,Rest,N/A,Yes,No
+2026-03-30T13:30:58Z,P09,UCSF Medical Center,Exercise,Mild headache after,Yes,No
+2026-03-30T13:34:18Z,P19,Cleveland Clinic,Unknown,No recollection of event,Pending,No
+2026-03-30T13:35:18Z,P14,Boston Medical Center,Rest,Experienced aura beforehand,Yes,Yes
