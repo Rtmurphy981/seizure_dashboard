@@ -1,0 +1,13 @@
+timestamp,patient_id,centre,mode,patient_note,followed_up,false_positive
+2026-03-30T11:29:42Z,P04,Cleveland Clinic,Rest,Felt confused afterwards,No,No
+2026-03-30T11:30:32Z,P10,UCSF Medical Center,Exercise,N/A,Yes,Yes
+2026-03-30T11:41:42Z,P18,Cleveland Clinic,Sleep,No warning signs,Pending,No
+2026-03-30T11:48:12Z,P17,Mayo Clinic Rochester,Unknown,N/A,Yes,Yes
+2026-03-30T12:00:02Z,P05,Cleveland Clinic,Exercise,No recollection of event,Pending,Yes
+2026-03-30T12:10:12Z,P13,UCSF Medical Center,Sleep,N/A,Yes,No
+2026-03-30T12:17:22Z,P18,Cleveland Clinic,Unknown,No recollection of event,Yes,No
+2026-03-30T12:18:22Z,P08,Cleveland Clinic,Unknown,Was stressed prior to event,Pending,No
+2026-03-30T12:23:22Z,P19,Cleveland Clinic,Exercise,No recollection of event,No,No
+2026-03-30T12:26:12Z,P17,Mayo Clinic Rochester,Unknown,Felt dizzy before onset,Pending,No
+2026-03-30T12:27:02Z,P15,UCSF Medical Center,Exercise,Woke up during episode,Yes,No
+2026-03-30T12:30:13Z,P18,Cleveland Clinic,Exercise,Felt dizzy before onset,Pending,No
