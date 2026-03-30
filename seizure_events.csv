@@ -34,3 +34,4 @@ timestamp,patient_id,centre,mode,patient_note,followed_up,false_positive
 2026-03-30T14:37:18Z,P13,Mayo Clinic Rochester,Rest,No warning signs,Yes,No
 2026-03-30T14:42:13Z,P17,Boston Medical Center,Unknown,Felt confused afterwards,No,Yes
 2026-03-30T14:48:51Z,P10,UCSF Medical Center,Sleep,Experienced aura beforehand,Yes,No
+2026-03-30T15:09:13Z,P18,Boston Medical Center,Unknown,Was stressed prior to event,Yes,No
