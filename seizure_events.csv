@@ -20,3 +20,5 @@ timestamp,patient_id,centre,mode,patient_note,followed_up,false_positive
 2026-03-30T13:49:03Z,P06,Johns Hopkins Hospital,Awake,Experienced aura beforehand,Pending,No
 2026-03-30T13:49:03Z,P10,UCSF Medical Center,Rest,N/A,Yes,No
 2026-03-30T13:54:48Z,P14,Boston Medical Center,Sleep,N/A,Yes,Yes
+2026-03-30T14:04:19Z,P06,Johns Hopkins Hospital,Sleep,N/A,Pending,No
+2026-03-30T14:04:19Z,P07,Johns Hopkins Hospital,Unknown,No recollection of event,Pending,No
