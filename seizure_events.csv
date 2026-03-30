@@ -27,3 +27,4 @@ timestamp,patient_id,centre,mode,patient_note,followed_up,false_positive
 2026-03-30T13:30:07Z,P04,Cleveland Clinic,Rest,N/A,Yes,No
 2026-03-30T13:30:58Z,P09,UCSF Medical Center,Exercise,Mild headache after,Yes,No
 2026-03-30T13:34:18Z,P19,Cleveland Clinic,Unknown,No recollection of event,Pending,No
+2026-03-30T13:35:18Z,P14,Boston Medical Center,Rest,Experienced aura beforehand,Yes,Yes
