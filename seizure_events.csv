@@ -31,3 +31,4 @@ timestamp,patient_id,centre,mode,patient_note,followed_up,false_positive
 2026-03-30T14:34:31Z,P05,Boston Medical Center,Sleep,Experienced aura beforehand,Pending,No
 2026-03-30T14:35:25Z,P10,UCSF Medical Center,Sleep,Experienced aura beforehand,No,No
 2026-03-30T14:35:35Z,P11,Mayo Clinic Rochester,Exercise,No warning signs,No,No
+2026-03-30T14:37:18Z,P13,Mayo Clinic Rochester,Rest,No warning signs,Yes,No
