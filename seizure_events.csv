@@ -31,3 +31,4 @@ timestamp,patient_id,centre,mode,patient_note,followed_up,false_positive
 2026-03-30T13:41:30Z,P05,Cleveland Clinic,Sleep,Was stressed prior to event,Pending,No
 2026-03-30T13:42:20Z,P10,UCSF Medical Center,Sleep,Felt confused afterwards,Yes,No
 2026-03-30T13:42:30Z,P11,Johns Hopkins Hospital,Awake,Mild headache after,Pending,No
+2026-03-30T13:44:10Z,P13,UCSF Medical Center,Awake,N/A,Yes,No
