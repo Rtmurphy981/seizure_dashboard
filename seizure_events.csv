@@ -10,3 +10,4 @@ timestamp,patient_id,centre,mode,patient_note,followed_up,false_positive
 2026-03-30T13:11:28Z,P19,Cleveland Clinic,Exercise,Felt confused afterwards,Pending,No
 2026-03-30T13:14:18Z,P17,Boston Medical Center,Sleep,Experienced aura beforehand,Yes,No
 2026-03-30T13:15:08Z,P15,Johns Hopkins Hospital,Unknown,N/A,Yes,No
+2026-03-30T13:18:29Z,P18,Boston Medical Center,Rest,Felt confused afterwards,Yes,No
