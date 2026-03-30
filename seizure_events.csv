@@ -23,3 +23,4 @@ timestamp,patient_id,centre,mode,patient_note,followed_up,false_positive
 2026-03-30T14:04:19Z,P06,Johns Hopkins Hospital,Sleep,N/A,Pending,No
 2026-03-30T14:04:19Z,P07,Johns Hopkins Hospital,Unknown,No recollection of event,Pending,No
 2026-03-30T14:18:41Z,P20,UCSF Medical Center,Sleep,Felt confused afterwards,No,No
+2026-03-30T14:19:54Z,P02,Johns Hopkins Hospital,Exercise,N/A,No,Yes
