@@ -24,3 +24,5 @@ timestamp,patient_id,centre,mode,patient_note,followed_up,false_positive
 2026-03-30T14:04:19Z,P07,Johns Hopkins Hospital,Unknown,No recollection of event,Pending,No
 2026-03-30T14:18:41Z,P20,UCSF Medical Center,Sleep,Felt confused afterwards,No,No
 2026-03-30T14:19:54Z,P02,Johns Hopkins Hospital,Exercise,N/A,No,Yes
+2026-03-30T14:22:44Z,P04,Cleveland Clinic,Awake,Mild headache after,Yes,No
+2026-03-30T14:23:35Z,P09,Cleveland Clinic,Rest,Experienced aura beforehand,Pending,No
